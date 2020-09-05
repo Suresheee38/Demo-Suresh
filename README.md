@@ -1,5 +1,4 @@
 # Demo-Suresh
 
 My first repo
-master1
-one1
+Master 1 commit
